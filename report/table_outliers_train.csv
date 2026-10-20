@@ -1,0 +1,5 @@
+Column,Q1,Q3,Lower,Upper,Outliers,Percent
+ApplicantIncome,2877.5,5795.0,-1498.75,10171.25,50,8.1
+CoapplicantIncome,0.0,2297.25,-3445.875,5743.125,18,2.9
+LoanAmount,100.0,168.0,-2.0,270.0,39,6.4
+Loan_Amount_Term,360.0,360.0,360.0,360.0,88,14.3
