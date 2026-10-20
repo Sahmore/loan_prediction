@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+data/raw/*.csv
+data/processed/*.csv
+models/*.pkl
+.vscode/
+.DS_Store
